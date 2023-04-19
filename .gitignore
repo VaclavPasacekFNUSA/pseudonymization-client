@@ -1,0 +1,7 @@
+__pycache__
+.venv
+
+#script showing how to use client
+main.py
+
+poetry.lock
